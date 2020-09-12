@@ -1,0 +1,24 @@
+{
+  "name": "google-sheets-quickstart",
+  "version": "1.0.0",
+  "description": "Playing with Google Sheets API",
+  "main": "index.js",
+  "dependencies": {
+    "googleapis": "^39.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/katthartic/google-sheets-quickstart.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/katthartic/google-sheets-quickstart/issues"
+  },
+  "homepage": "https://github.com/katthartic/google-sheets-quickstart#readme"
+}
